@@ -1,31 +1,35 @@
+# _My first webpage_
+
+#### _A smattering of things I like and the very first webpage I ever built, August 1, 2016_
+
+#### By _**Kyle Lange & Ethan Law**_
+
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Do you like Santa? So do we. He's one of our favorite guys. BUT. Our Santa will Hadouken you off a water tower. So there's that._
 
-## Setup/Installation Requirements
+## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone from Github_
+* _Run on a web browser_
+* _Delight in silly gifs_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Chrome or bust!_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_The background color is tomato.  This is known to attract bugs._
 
-## Support and contact details
+## Support
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Call me anytime, 630-936-2956, day or night._
 
-## Technologies Used
+## Technologies used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML and maybe a dallop of CSS_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*For the people, by the people*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2066 **_EPICODUS_**
